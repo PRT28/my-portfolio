@@ -1,0 +1,153 @@
+{
+  "main": {
+    "name":"Prithvi Raj Tiwari",
+    "description":"I am a Web Development, App Development and Artificial Intelligence Engineer ",
+    "image":"profilepic.png",
+    "bio":"Seeking a position to utilize skills and abilities that offers educational growth while being resourceful, innovative and flexible and to work in a firm with a professional work driven environment while fulfilling organizational goals.",
+    "email": "prithvirajtiwari28@gmail.com",
+    "phone": "7500269270",
+    "github":"https://github.com/PRT28",
+    "project":"https://www.linkedin.com/in/prithvi-raj-tiwari-202274176/",
+    "address":{
+      "street":"Manpur North, Rampur Road",
+      "city":"Haldwani",
+      "state":"Uttarakhand",
+      "zip": "263139"
+    },
+    "website": "/",
+    "resumedownload":"images/resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/prithvi-raj-tiwari-202274176/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/PRT28",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/prt28_/",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I use MERN Stack for Web Development, Flutter for App Development and Tensorflow for AI",
+    "education":[
+      {
+        "school":"Birla Institute of Applied Science",
+        "degree":"B. Tech- ECE",
+        "graduated":"2018-2022"
+      },
+      {
+        "school":"Aryaman Vikram Birla Institute of Learning",
+        "degree":"Intermediate- PCM",
+        "graduated":"2018"
+      }
+    ],
+    "work":[
+      {
+        "company":"AVScrappers",
+        "title":"Web Development Intern",
+        "years":"March 2020 - October 2020"
+      },
+      {
+        "company":"Iotiot.in",
+        "title":"AI Project Intern",
+        "years":"October 2020 - December 2020"
+      },
+      {
+        "company":"The Sparks Foundation",
+        "title":"Data Science Intern",
+        "years":"January 2021"
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"70%"
+      },
+      {
+        "name":"ExpressJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"85%"
+      },
+      {
+        "name":"Flutter",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"C++",
+        "level":"90%"
+      },
+      {
+        "name":"C",
+        "level":"90%"
+      },
+      {
+        "name":"JAVA",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"To Do List",
+        "category":"This project is a simple list in which the user can write and save their tasks to be done and can be saved for future reference. Technologies Used: EJS, MongoDB, NodeJS, ExpressJS.",
+        "url":"https://github.com/PRT28/to-do-list"
+      },
+      {
+        "title":"Diary",
+        "category":"This project is an online diary/blog app, in which user can write their blogs, etc. and can share them. Technologies Used: EJS, MongoDB, NodeJS, ExpressJS.",
+        "url":"https://github.com/PRT28/diary"
+      },
+      {
+        "title":"Keeper",
+        "category":"This app is clone of Google Keep which has similar functionality but without any backend services. Technologies Used: ReactJS",
+        "url":"https://github.com/PRT28/keeper"
+      },
+      {
+        "title":"Digits Classifier",
+        "category":"This project is an AI web app in which user draws the digit with mouse and the app will figure out what digit user wrote. Technologies used: Javascript, Tensorflow JS.",
+        "url":"https://github.com/PRT28/Digits-Classifier"
+      },
+      {
+        "title":"Active Shelf Monitoring",
+        "category":"An AI model that localizes and classifies the item on shelf and updates the inventory accordingly using surveillance cameras. Technologies Used: Python, Tensorflow"
+      },
+      {
+        "title":"Face Mask Detector",
+        "category":"An Artificial Intelligence program which detects whether a person has weared a mask or not. Technologies Used: Python, Tensorflow",
+        "url":"https://github.com/PRT28/Face-Mask-Detector"
+      },
+      {
+        "title":"Xylophone",
+        "category":"An Android/IOS app which turns the device screen into a xylophone, which can be played. Technologies Used :Flutter"
+      },
+      {
+        "title":"Shakespeares' Poetry Creator",
+        "category":"NLP application to create poetry similar to that of shakespeare. Technologies Used : Python, Tensorflow",
+        "url":"https://github.com/PRT28/Shakespeare-s-Poetry-Creator"
+      }
+    ]
+  }
+}
